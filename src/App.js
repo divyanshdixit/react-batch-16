@@ -4,6 +4,7 @@ import './App.css';
 import About from './About';
 import Header from './Header';
 import Parent from './Parent';
+import StateFul from './StateFul';
 
 
 /*
@@ -25,7 +26,8 @@ function App() {
     <div>
       <About />
       <Header/>
-      <Parent name={fname} age={28} />
+      <Parent name={fname}  age={30}/>
+      <StateFul />
     </div>
   );
 }

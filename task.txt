@@ -1,0 +1,17 @@
+username
+useremail
+password
+
+<button> click </button> 
+
+console.log(username, useremail, password);
+
+InputComponent => place, name , value, type
+
+<input type="text"/>
+<input type="text"/>
+<input type="text"/>
+
+<InputComponent1 place, name , value, type/>
+<InputComponent2 place, name , value, type/>
+<InputComponent place, name , value, type />
